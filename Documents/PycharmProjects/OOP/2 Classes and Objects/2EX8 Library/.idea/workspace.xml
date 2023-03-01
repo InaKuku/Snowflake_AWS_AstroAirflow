@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9806576e-5f70-4a5e-a7d2-0e0af7b060ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1v273Lk7T1RBPeAkuuHb20Lg7w4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project" />
+  </component>
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lbr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lbr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/library.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lbr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/user.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.user" />
+        <item itemvalue="Python.library" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9806576e-5f70-4a5e-a7d2-0e0af7b060ea" name="Default Changelist" comment="" />
+      <created>1625748130254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625748130254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1625751625331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1625751625330" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1625751621783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1625751621783" />
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1625751624150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625751624150" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1625751624150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625751624150" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1625751624149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625751624149" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1625751624150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625751624150" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1625751624150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625751624150" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1625751624150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1625751624150" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1625751624150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1625751624150" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1625751624150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1625751624150" />
+    <state x="389" y="0" width="587" height="728" key="find.popup" timestamp="1625751144615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" width="587" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1625751144615" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/library.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/user.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/user.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/user.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/user.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
