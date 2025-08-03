@@ -1,0 +1,39 @@
+aws_conn_id: aws_conn_id
+
+s3:
+  bucket: inafirstbucket
+  folder: Exam_Files/
+
+snowflake:
+  conn_id: my_snowflake_conn
+  account: 
+  warehouse: COMPUTE_WH
+  database: PRODUCTS_REGIONS_DB
+  targets:
+    sales:
+      schema: cleansed_layer
+      table: sales_data
+    products:
+      schema: cleansed_layer
+      table: product_data
+    merged:
+      schema: cleansed_layer
+      table: merged_data
+    enriched:
+      schema: business_layer
+      table: enriched_data
+    peak_hours:
+      schema: presentation_layer
+      table: peak_hours_sales_trends
+    products_ranking:
+      schema: presentation_layer
+      table: product_sales_ranking
+    seasonal_patterns:
+      schema: presentation_layer
+      table: seasonal_sales_patterns
+    revenue_region:
+      schema: presentation_layer
+      table: revenue_by_region
+    order_status:
+      schema: presentation_layer
+      table: order_status_weekly
